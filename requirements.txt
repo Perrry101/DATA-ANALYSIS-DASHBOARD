@@ -7,3 +7,8 @@ plotly
 matplotlib
 
 numpy
+
+seaborn
+
+sklearn
+
