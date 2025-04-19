@@ -1,14 +1,6 @@
 streamlit
-
 pandas
-
 plotly
-
-matplotlib
-
-numpy
-
 seaborn
-
-sklearn
-
+matplotlib
+scikit-learn
