@@ -1,0 +1,1000 @@
+Month,Product line,Quantity,Unit price,Tax 5%,Total,Count
+February,Electronic accessories,1,28.96,1.448,30.408,1
+February,Electronic accessories,1,39.48,1.974,41.454,1
+February,Electronic accessories,1,39.75,1.9875,41.7375,1
+February,Electronic accessories,1,60.3,3.015,63.315,1
+February,Electronic accessories,1,60.95,3.0475,63.9975,1
+February,Electronic accessories,1,62.48,3.124,65.604,1
+February,Electronic accessories,1,71.95,3.5975,75.5475,1
+February,Electronic accessories,1,76.82,3.841,80.661,1
+February,Electronic accessories,1,98.84,4.942,103.782,1
+February,Electronic accessories,1,99.69,4.9845,104.6745,1
+February,Electronic accessories,2,20.89,2.089,43.869,1
+February,Electronic accessories,2,46.61,4.661,97.881,1
+February,Electronic accessories,3,48.09,7.2135,151.4835,1
+February,Electronic accessories,3,81.4,12.21,256.41,1
+February,Electronic accessories,3,94.64,14.196,298.116,1
+February,Electronic accessories,4,32.25,6.45,135.45,1
+February,Electronic accessories,4,65.94,13.188,276.948,1
+February,Electronic accessories,5,11.81,2.9525,62.0025,1
+February,Electronic accessories,5,12.05,3.0125,63.2625,1
+February,Electronic accessories,5,34.56,8.64,181.44,1
+February,Electronic accessories,5,46.95,11.7375,246.4875,1
+February,Electronic accessories,5,86.04,21.51,451.71,1
+February,Electronic accessories,6,12.45,3.735,78.435,1
+February,Electronic accessories,6,18.93,5.679,119.259,1
+February,Electronic accessories,6,35.49,10.647,223.587,1
+February,Electronic accessories,6,46.02,13.806,289.926,1
+February,Electronic accessories,6,50.45,15.135,317.835,1
+February,Electronic accessories,6,68.84,20.652,433.692,1
+February,Electronic accessories,6,87.45,26.235,550.935,1
+February,Electronic accessories,6,90.7,27.21,571.41,1
+February,Electronic accessories,7,25.22,8.827,185.367,1
+February,Electronic accessories,7,26.26,9.191,193.011,1
+February,Electronic accessories,7,74.58,26.103,548.163,1
+February,Electronic accessories,7,92.6,32.41,680.61,1
+February,Electronic accessories,8,14.96,5.984,125.664,1
+February,Electronic accessories,8,35.74,14.296,300.216,1
+February,Electronic accessories,8,40.86,16.344,343.224,1
+February,Electronic accessories,8,57.91,23.164,486.444,1
+February,Electronic accessories,8,71.89,28.756,603.876,1
+February,Electronic accessories,8,85.98,34.392,722.232,1
+February,Electronic accessories,8,99.56,39.824,836.304,1
+February,Electronic accessories,9,23.07,10.3815,218.0115,1
+February,Electronic accessories,9,69.58,31.311,657.531,1
+February,Electronic accessories,9,75.59,34.0155,714.3255,1
+February,Electronic accessories,9,77.63,34.9335,733.6035,1
+February,Electronic accessories,9,88.25,39.7125,833.9625,1
+February,Electronic accessories,10,17.42,8.71,182.91,1
+February,Electronic accessories,10,22.95,11.475,240.975,1
+February,Electronic accessories,10,24.74,12.37,259.77,1
+February,Electronic accessories,10,32.8,16.4,344.4,1
+February,Electronic accessories,10,40.26,20.13,422.73,1
+February,Electronic accessories,10,52.79,26.395,554.295,1
+February,Electronic accessories,10,78.13,39.065,820.365,1
+February,Electronic accessories,10,79.39,39.695,833.595,1
+February,Fashion accessories,1,12.54,0.627,13.167,1
+February,Fashion accessories,1,19.7,0.985,20.685,1
+February,Fashion accessories,1,30.62,1.531,32.151,1
+February,Fashion accessories,1,33.52,1.676,35.196,1
+February,Fashion accessories,1,47.44,2.372,49.812,1
+February,Fashion accessories,1,52.35,2.6175,54.9675,1
+February,Fashion accessories,1,53.78,2.689,56.469,1
+February,Fashion accessories,1,55.45,2.7725,58.2225,1
+February,Fashion accessories,1,91.35,4.5675,95.9175,1
+February,Fashion accessories,2,21.48,2.148,45.108,1
+February,Fashion accessories,2,69.33,6.933,145.593,1
+February,Fashion accessories,2,72.04,7.204,151.284,1
+February,Fashion accessories,2,83.35,8.335,175.035,1
+February,Fashion accessories,2,83.77,8.377,175.917,1
+February,Fashion accessories,2,86.13,8.613,180.873,1
+February,Fashion accessories,2,92.98,9.298,195.258,1
+February,Fashion accessories,2,93.2,9.32,195.72,1
+February,Fashion accessories,2,98.48,9.848,206.808,1
+February,Fashion accessories,2,99.89,9.989,209.769,1
+February,Fashion accessories,3,45.38,6.807,142.947,1
+February,Fashion accessories,3,51.94,7.791,163.611,1
+February,Fashion accessories,3,52.42,7.863,165.123,1
+February,Fashion accessories,3,57.27,8.5905,180.4005,1
+February,Fashion accessories,3,80.48,12.072,253.512,1
+February,Fashion accessories,3,90.22,13.533,284.193,1
+February,Fashion accessories,4,14.48,2.896,60.816,1
+February,Fashion accessories,4,48.63,9.726,204.246,1
+February,Fashion accessories,4,60.18,12.036,252.756,1
+February,Fashion accessories,4,73.05,14.61,306.81,1
+February,Fashion accessories,4,73.82,14.764,310.044,1
+February,Fashion accessories,4,95.42,19.084,400.764,1
+February,Fashion accessories,4,96.98,19.396,407.316,1
+February,Fashion accessories,5,29.56,7.39,155.19,1
+February,Fashion accessories,5,39.75,9.9375,208.6875,1
+February,Fashion accessories,5,63.71,15.9275,334.4775,1
+February,Fashion accessories,5,77.02,19.255,404.355,1
+February,Fashion accessories,5,94.13,23.5325,494.1825,1
+February,Fashion accessories,6,43.46,13.038,273.798,1
+February,Fashion accessories,7,22.51,7.8785,165.4485,1
+February,Fashion accessories,7,25.56,8.946,187.866,1
+February,Fashion accessories,7,53.65,18.7775,394.3275,1
+February,Fashion accessories,7,64.26,22.491,472.311,1
+February,Fashion accessories,7,72.84,25.494,535.374,1
+February,Fashion accessories,7,73.38,25.683,539.343,1
+February,Fashion accessories,7,88.34,30.919,649.299,1
+February,Fashion accessories,7,97.79,34.2265,718.7565,1
+February,Fashion accessories,8,60.41,24.164,507.444,1
+February,Fashion accessories,8,94.87,37.948,796.908,1
+February,Fashion accessories,9,36.51,16.4295,345.0195,1
+February,Fashion accessories,9,54.31,24.4395,513.2295,1
+February,Fashion accessories,9,77.93,35.0685,736.4385,1
+February,Fashion accessories,10,17.49,8.745,183.645,1
+February,Fashion accessories,10,19.77,9.885,207.585,1
+February,Fashion accessories,10,30.14,15.07,316.47,1
+February,Fashion accessories,10,41.09,20.545,431.445,1
+February,Fashion accessories,10,43.13,21.565,452.865,1
+February,Fashion accessories,10,62.12,31.06,652.26,1
+February,Fashion accessories,10,97.21,48.605,1020.705,1
+February,Fashion accessories,10,98.98,49.49,1039.29,1
+February,Fashion accessories,10,99.3,49.65,1042.65,1
+February,Food and beverages,1,21.58,1.079,22.659,1
+February,Food and beverages,1,30.41,1.5205,31.9305,1
+February,Food and beverages,1,31.84,1.592,33.432,1
+February,Food and beverages,1,35.89,1.7945,37.6845,1
+February,Food and beverages,1,38.42,1.921,40.341,1
+February,Food and beverages,1,48.61,2.4305,51.0405,1
+February,Food and beverages,1,52.42,2.621,55.041,1
+February,Food and beverages,1,67.77,3.3885,71.1585,1
+February,Food and beverages,1,87.9,4.395,92.295,1
+February,Food and beverages,2,14.87,1.487,31.227,1
+February,Food and beverages,2,99.37,9.937,208.677,1
+February,Food and beverages,3,21.08,3.162,66.402,1
+February,Food and beverages,3,32.9,4.935,103.635,1
+February,Food and beverages,3,52.2,7.83,164.43,1
+February,Food and beverages,3,54.84,8.226,172.746,1
+February,Food and beverages,3,57.74,8.661,181.881,1
+February,Food and beverages,3,67.1,10.065,211.365,1
+February,Food and beverages,3,98.79,14.8185,311.1885,1
+February,Food and beverages,3,99.6,14.94,313.74,1
+February,Food and beverages,4,23.34,4.668,98.028,1
+February,Food and beverages,4,41.24,8.248,173.208,1
+February,Food and beverages,4,60.3,12.06,253.26,1
+February,Food and beverages,4,62.85,12.57,263.97,1
+February,Food and beverages,4,73.47,14.694,308.574,1
+February,Food and beverages,4,80.36,16.072,337.512,1
+February,Food and beverages,4,99.42,19.884,417.564,1
+February,Food and beverages,5,14.23,3.5575,74.7075,1
+February,Food and beverages,5,27.28,6.82,143.22,1
+February,Food and beverages,5,40.52,10.13,212.73,1
+February,Food and beverages,5,44.59,11.1475,234.0975,1
+February,Food and beverages,5,47.16,11.79,247.59,1
+February,Food and beverages,5,71.39,17.8475,374.7975,1
+February,Food and beverages,5,92.29,23.0725,484.5225,1
+February,Food and beverages,6,16.48,4.944,103.824,1
+February,Food and beverages,6,26.6,7.98,167.58,1
+February,Food and beverages,6,47.27,14.181,297.801,1
+February,Food and beverages,6,80.62,24.186,507.906,1
+February,Food and beverages,6,87.48,26.244,551.124,1
+February,Food and beverages,7,24.82,8.687,182.427,1
+February,Food and beverages,7,91.4,31.99,671.79,1
+February,Food and beverages,8,26.43,10.572,222.012,1
+February,Food and beverages,8,65.97,26.388,554.148,1
+February,Food and beverages,8,80.96,32.384,680.064,1
+February,Food and beverages,8,94.47,37.788,793.548,1
+February,Food and beverages,9,20.01,9.0045,189.0945,1
+February,Food and beverages,9,22.93,10.3185,216.6885,1
+February,Food and beverages,9,35.04,15.768,331.128,1
+February,Food and beverages,9,42.82,19.269,404.649,1
+February,Food and beverages,9,46.55,20.9475,439.8975,1
+February,Food and beverages,9,77.4,34.83,731.43,1
+February,Food and beverages,9,98.66,44.397,932.337,1
+February,Food and beverages,10,10.96,5.48,115.08,1
+February,Food and beverages,10,18.85,9.425,197.925,1
+February,Food and beverages,10,27.66,13.83,290.43,1
+February,Food and beverages,10,39.9,19.95,418.95,1
+February,Food and beverages,10,43.19,21.595,453.495,1
+February,Food and beverages,10,54.36,27.18,570.78,1
+February,Food and beverages,10,67.45,33.725,708.225,1
+February,Food and beverages,10,74.44,37.22,781.62,1
+February,Food and beverages,10,77.2,38.6,810.6,1
+February,Food and beverages,10,87.1,43.55,914.55,1
+February,Food and beverages,10,89.2,44.6,936.6,1
+February,Health and beauty,1,18.33,0.9165,19.2465,1
+February,Health and beauty,1,89.75,4.4875,94.2375,1
+February,Health and beauty,1,91.3,4.565,95.865,1
+February,Health and beauty,2,14.76,1.476,30.996,1
+February,Health and beauty,2,33.47,3.347,70.287,1
+February,Health and beauty,2,58.32,5.832,122.472,1
+February,Health and beauty,3,39.91,5.9865,125.7165,1
+February,Health and beauty,3,56.0,8.4,176.4,1
+February,Health and beauty,3,65.18,9.777,205.317,1
+February,Health and beauty,3,92.09,13.8135,290.0835,1
+February,Health and beauty,3,98.21,14.7315,309.3615,1
+February,Health and beauty,4,17.97,3.594,75.474,1
+February,Health and beauty,4,44.07,8.814,185.094,1
+February,Health and beauty,4,62.57,12.514,262.794,1
+February,Health and beauty,4,68.55,13.71,287.91,1
+February,Health and beauty,4,75.74,15.148,318.108,1
+February,Health and beauty,4,77.68,15.536,326.256,1
+February,Health and beauty,5,10.16,2.54,53.34,1
+February,Health and beauty,5,35.68,8.92,187.32,1
+February,Health and beauty,5,50.79,12.6975,266.6475,1
+February,Health and beauty,5,66.68,16.67,350.07,1
+February,Health and beauty,5,83.66,20.915,439.215,1
+February,Health and beauty,6,15.26,4.578,96.138,1
+February,Health and beauty,6,25.43,7.629,160.209,1
+February,Health and beauty,6,47.71,14.313,300.573,1
+February,Health and beauty,6,57.59,17.277,362.817,1
+February,Health and beauty,6,76.99,23.097,485.037,1
+February,Health and beauty,6,99.71,29.913,628.173,1
+February,Health and beauty,7,37.15,13.0025,273.0525,1
+February,Health and beauty,7,76.9,26.915,565.215,1
+February,Health and beauty,7,85.87,30.0545,631.1445,1
+February,Health and beauty,8,21.8,8.72,183.12,1
+February,Health and beauty,8,28.5,11.4,239.4,1
+February,Health and beauty,8,33.64,13.456,282.576,1
+February,Health and beauty,8,42.57,17.028,357.588,1
+February,Health and beauty,8,89.6,35.84,752.64,1
+February,Health and beauty,9,13.85,6.2325,130.8825,1
+February,Health and beauty,9,56.69,25.5105,535.7205,1
+February,Health and beauty,9,58.24,26.208,550.368,1
+February,Health and beauty,9,84.09,37.8405,794.6505,1
+February,Health and beauty,10,13.5,6.75,141.75,1
+February,Health and beauty,10,25.9,12.95,271.95,1
+February,Health and beauty,10,32.32,16.16,339.36,1
+February,Health and beauty,10,58.95,29.475,618.975,1
+February,Health and beauty,10,68.6,34.3,720.3,1
+February,Health and beauty,10,84.61,42.305,888.405,1
+February,Home and lifestyle,1,13.98,0.699,14.679,1
+February,Home and lifestyle,1,65.82,3.291,69.111,1
+February,Home and lifestyle,1,74.07,3.7035,77.7735,1
+February,Home and lifestyle,1,86.27,4.3135,90.5835,1
+February,Home and lifestyle,2,12.73,1.273,26.733,1
+February,Home and lifestyle,2,37.69,3.769,79.149,1
+February,Home and lifestyle,2,47.68,4.768,100.128,1
+February,Home and lifestyle,2,56.11,5.611,117.831,1
+February,Home and lifestyle,3,68.97,10.3455,217.2555,1
+February,Home and lifestyle,3,77.04,11.556,242.676,1
+February,Home and lifestyle,3,80.08,12.012,252.252,1
+February,Home and lifestyle,4,31.75,6.35,133.35,1
+February,Home and lifestyle,4,45.97,9.194,193.074,1
+February,Home and lifestyle,4,46.47,9.294,195.174,1
+February,Home and lifestyle,5,17.77,4.4425,93.2925,1
+February,Home and lifestyle,5,35.81,8.9525,188.0025,1
+February,Home and lifestyle,5,82.04,20.51,430.71,1
+February,Home and lifestyle,5,86.69,21.6725,455.1225,1
+February,Home and lifestyle,6,15.95,4.785,100.485,1
+February,Home and lifestyle,6,16.37,4.911,103.131,1
+February,Home and lifestyle,6,25.91,7.773,163.233,1
+February,Home and lifestyle,6,34.42,10.326,216.846,1
+February,Home and lifestyle,6,37.44,11.232,235.872,1
+February,Home and lifestyle,6,55.73,16.719,351.099,1
+February,Home and lifestyle,6,65.91,19.773,415.233,1
+February,Home and lifestyle,7,16.67,5.8345,122.5245,1
+February,Home and lifestyle,7,36.91,12.9185,271.2885,1
+February,Home and lifestyle,7,94.88,33.208,697.368,1
+February,Home and lifestyle,8,69.96,27.984,587.664,1
+February,Home and lifestyle,8,88.79,35.516,745.836,1
+February,Home and lifestyle,8,93.12,37.248,782.208,1
+February,Home and lifestyle,8,93.87,37.548,788.508,1
+February,Home and lifestyle,9,22.02,9.909,208.089,1
+February,Home and lifestyle,9,77.68,34.956,734.076,1
+February,Home and lifestyle,9,80.79,36.3555,763.4655,1
+February,Home and lifestyle,10,60.38,30.19,633.99,1
+February,Home and lifestyle,10,72.78,36.39,764.19,1
+February,Home and lifestyle,10,73.56,36.78,772.38,1
+February,Sports and travel,1,10.17,0.5085,10.6785,1
+February,Sports and travel,1,45.58,2.279,47.859,1
+February,Sports and travel,1,54.45,2.7225,57.1725,1
+February,Sports and travel,1,63.69,3.1845,66.8745,1
+February,Sports and travel,1,73.97,3.6985,77.6685,1
+February,Sports and travel,1,88.31,4.4155,92.7255,1
+February,Sports and travel,1,88.45,4.4225,92.8725,1
+February,Sports and travel,2,16.49,1.649,34.629,1
+February,Sports and travel,2,71.63,7.163,150.423,1
+February,Sports and travel,2,98.8,9.88,207.48,1
+February,Sports and travel,3,24.74,3.711,77.931,1
+February,Sports and travel,3,42.97,6.4455,135.3555,1
+February,Sports and travel,3,44.65,6.6975,140.6475,1
+February,Sports and travel,3,75.2,11.28,236.88,1
+February,Sports and travel,4,20.18,4.036,84.756,1
+February,Sports and travel,4,34.84,6.968,146.328,1
+February,Sports and travel,4,73.95,14.79,310.59,1
+February,Sports and travel,4,94.76,18.952,397.992,1
+February,Sports and travel,4,95.54,19.108,401.268,1
+February,Sports and travel,5,43.06,10.765,226.065,1
+February,Sports and travel,5,64.97,16.2425,341.0925,1
+February,Sports and travel,5,67.27,16.8175,353.1675,1
+February,Sports and travel,5,91.41,22.8525,479.9025,1
+February,Sports and travel,6,13.69,4.107,86.247,1
+February,Sports and travel,6,57.95,17.385,365.085,1
+February,Sports and travel,6,69.12,20.736,435.456,1
+February,Sports and travel,7,58.39,20.4365,429.1665,1
+February,Sports and travel,7,60.08,21.028,441.588,1
+February,Sports and travel,7,64.08,22.428,470.988,1
+February,Sports and travel,7,67.99,23.7965,499.7265,1
+February,Sports and travel,7,69.52,24.332,510.972,1
+February,Sports and travel,7,86.31,30.2085,634.3785,1
+February,Sports and travel,7,95.49,33.4215,701.8515,1
+February,Sports and travel,8,51.52,20.608,432.768,1
+February,Sports and travel,9,46.66,20.997,440.937,1
+February,Sports and travel,9,55.07,24.7815,520.4115,1
+February,Sports and travel,9,90.28,40.626,853.146,1
+February,Sports and travel,9,98.09,44.1405,926.9505,1
+February,Sports and travel,10,22.24,11.12,233.52,1
+February,Sports and travel,10,24.49,12.245,257.145,1
+February,Sports and travel,10,31.99,15.995,335.895,1
+February,Sports and travel,10,49.33,24.665,517.965,1
+February,Sports and travel,10,51.91,25.955,545.055,1
+January,Electronic accessories,1,38.6,1.93,40.53,1
+January,Electronic accessories,1,66.35,3.3175,69.6675,1
+January,Electronic accessories,1,72.17,3.6085,75.7785,1
+January,Electronic accessories,1,73.26,3.663,76.923,1
+January,Electronic accessories,1,83.08,4.154,87.234,1
+January,Electronic accessories,2,63.22,6.322,132.762,1
+January,Electronic accessories,3,11.94,1.791,37.611,1
+January,Electronic accessories,3,79.59,11.9385,250.7085,1
+January,Electronic accessories,3,84.05,12.6075,264.7575,1
+January,Electronic accessories,3,93.78,14.067,295.407,1
+January,Electronic accessories,4,13.78,2.756,57.876,1
+January,Electronic accessories,4,20.77,4.154,87.234,1
+January,Electronic accessories,4,23.65,4.73,99.33,1
+January,Electronic accessories,4,37.06,7.412,155.652,1
+January,Electronic accessories,4,43.0,8.6,180.6,1
+January,Electronic accessories,4,50.23,10.046,210.966,1
+January,Electronic accessories,4,56.13,11.226,235.746,1
+January,Electronic accessories,4,77.72,15.544,326.424,1
+January,Electronic accessories,5,26.31,6.5775,138.1275,1
+January,Electronic accessories,5,74.79,18.6975,392.6475,1
+January,Electronic accessories,5,75.66,18.915,397.215,1
+January,Electronic accessories,6,18.77,5.631,118.251,1
+January,Electronic accessories,6,22.01,6.603,138.663,1
+January,Electronic accessories,6,23.46,7.038,147.798,1
+January,Electronic accessories,6,45.35,13.605,285.705,1
+January,Electronic accessories,6,52.89,15.867,333.207,1
+January,Electronic accessories,6,66.06,19.818,416.178,1
+January,Electronic accessories,6,74.71,22.413,470.673,1
+January,Electronic accessories,7,51.69,18.0915,379.9215,1
+January,Electronic accessories,7,61.41,21.4935,451.3635,1
+January,Electronic accessories,7,75.88,26.558,557.718,1
+January,Electronic accessories,7,87.08,30.478,640.038,1
+January,Electronic accessories,7,93.88,32.858,690.018,1
+January,Electronic accessories,7,96.37,33.7295,708.3195,1
+January,Electronic accessories,8,10.56,4.224,88.704,1
+January,Electronic accessories,8,12.1,4.84,101.64,1
+January,Electronic accessories,8,24.18,9.672,203.112,1
+January,Electronic accessories,8,42.42,16.968,356.328,1
+January,Electronic accessories,8,48.62,19.448,408.408,1
+January,Electronic accessories,8,91.56,36.624,769.104,1
+January,Electronic accessories,9,26.23,11.8035,247.8735,1
+January,Electronic accessories,9,44.84,20.178,423.738,1
+January,Electronic accessories,9,60.88,27.396,575.316,1
+January,Electronic accessories,9,66.65,29.9925,629.8425,1
+January,Electronic accessories,9,87.87,39.5415,830.3715,1
+January,Electronic accessories,10,21.43,10.715,225.015,1
+January,Electronic accessories,10,40.3,20.15,423.15,1
+January,Electronic accessories,10,41.65,20.825,437.325,1
+January,Electronic accessories,10,46.57,23.285,488.985,1
+January,Electronic accessories,10,55.87,27.935,586.635,1
+January,Electronic accessories,10,58.76,29.38,616.98,1
+January,Electronic accessories,10,72.13,36.065,757.365,1
+January,Electronic accessories,10,74.22,37.11,779.31,1
+January,Electronic accessories,10,88.67,44.335,931.035,1
+January,Fashion accessories,1,12.09,0.6045,12.6945,1
+January,Fashion accessories,1,12.78,0.639,13.419,1
+January,Fashion accessories,1,15.43,0.7715,16.2015,1
+January,Fashion accessories,1,21.32,1.066,22.386,1
+January,Fashion accessories,1,30.61,1.5305,32.1405,1
+January,Fashion accessories,1,31.9,1.595,33.495,1
+January,Fashion accessories,1,51.36,2.568,53.928,1
+January,Fashion accessories,1,64.99,3.2495,68.2395,1
+January,Fashion accessories,1,73.96,3.698,77.658,1
+January,Fashion accessories,1,74.1,3.705,77.805,1
+January,Fashion accessories,1,74.29,3.7145,78.0045,1
+January,Fashion accessories,1,89.69,4.4845,94.1745,1
+January,Fashion accessories,2,59.86,5.986,125.706,1
+January,Fashion accessories,2,60.96,6.096,128.016,1
+January,Fashion accessories,2,69.08,6.908,145.068,1
+January,Fashion accessories,2,73.52,7.352,154.392,1
+January,Fashion accessories,2,81.37,8.137,170.877,1
+January,Fashion accessories,2,99.82,9.982,209.622,1
+January,Fashion accessories,3,76.06,11.409,239.589,1
+January,Fashion accessories,3,84.87,12.7305,267.3405,1
+January,Fashion accessories,3,88.15,13.2225,277.6725,1
+January,Fashion accessories,3,93.22,13.983,293.643,1
+January,Fashion accessories,4,18.08,3.616,75.936,1
+January,Fashion accessories,4,32.62,6.524,137.004,1
+January,Fashion accessories,4,39.21,7.842,164.682,1
+January,Fashion accessories,4,68.71,13.742,288.582,1
+January,Fashion accessories,4,81.68,16.336,343.056,1
+January,Fashion accessories,5,17.94,4.485,94.185,1
+January,Fashion accessories,5,23.82,5.955,125.055,1
+January,Fashion accessories,5,36.85,9.2125,193.4625,1
+January,Fashion accessories,5,38.54,9.635,202.335,1
+January,Fashion accessories,5,96.7,24.175,507.675,1
+January,Fashion accessories,6,17.48,5.244,110.124,1
+January,Fashion accessories,6,27.38,8.214,172.494,1
+January,Fashion accessories,6,42.08,12.624,265.104,1
+January,Fashion accessories,6,49.32,14.796,310.716,1
+January,Fashion accessories,6,97.61,29.283,614.943,1
+January,Fashion accessories,6,99.1,29.73,624.33,1
+January,Fashion accessories,7,39.62,13.867,291.207,1
+January,Fashion accessories,7,42.57,14.8995,312.8895,1
+January,Fashion accessories,7,45.44,15.904,333.984,1
+January,Fashion accessories,7,47.97,16.7895,352.5795,1
+January,Fashion accessories,7,51.89,18.1615,381.3915,1
+January,Fashion accessories,7,54.28,18.998,398.958,1
+January,Fashion accessories,7,60.74,21.259,446.439,1
+January,Fashion accessories,7,79.86,27.951,586.971,1
+January,Fashion accessories,8,15.62,6.248,131.208,1
+January,Fashion accessories,8,51.34,20.536,431.256,1
+January,Fashion accessories,8,63.88,25.552,536.592,1
+January,Fashion accessories,8,86.68,34.672,728.112,1
+January,Fashion accessories,8,98.7,39.48,829.08,1
+January,Fashion accessories,9,20.01,9.0045,189.0945,1
+January,Fashion accessories,9,31.73,14.2785,299.8485,1
+January,Fashion accessories,9,40.61,18.2745,383.7645,1
+January,Fashion accessories,9,49.04,22.068,463.428,1
+January,Fashion accessories,9,54.07,24.3315,510.9615,1
+January,Fashion accessories,9,65.74,29.583,621.243,1
+January,Fashion accessories,9,83.24,37.458,786.618,1
+January,Fashion accessories,10,29.42,14.71,308.91,1
+January,Fashion accessories,10,37.95,18.975,398.475,1
+January,Fashion accessories,10,56.04,28.02,588.42,1
+January,Fashion accessories,10,62.18,31.09,652.89,1
+January,Fashion accessories,10,65.23,32.615,684.915,1
+January,Fashion accessories,10,83.25,41.625,874.125,1
+January,Food and beverages,1,68.98,3.449,72.429,1
+January,Food and beverages,1,71.2,3.56,74.76,1
+January,Food and beverages,1,84.83,4.2415,89.0715,1
+January,Food and beverages,2,33.33,3.333,69.993,1
+January,Food and beverages,2,36.36,3.636,76.356,1
+January,Food and beverages,2,57.89,5.789,121.569,1
+January,Food and beverages,2,65.65,6.565,137.865,1
+January,Food and beverages,2,72.39,7.239,152.019,1
+January,Food and beverages,2,78.88,7.888,165.648,1
+January,Food and beverages,2,83.77,8.377,175.917,1
+January,Food and beverages,3,24.31,3.6465,76.5765,1
+January,Food and beverages,3,27.22,4.083,85.743,1
+January,Food and beverages,3,54.67,8.2005,172.2105,1
+January,Food and beverages,3,96.68,14.502,304.542,1
+January,Food and beverages,4,21.04,4.208,88.368,1
+January,Food and beverages,4,31.77,6.354,133.434,1
+January,Food and beverages,4,59.59,11.918,250.278,1
+January,Food and beverages,4,89.14,17.828,374.388,1
+January,Food and beverages,5,13.79,3.4475,72.3975,1
+January,Food and beverages,5,17.44,4.36,91.56,1
+January,Food and beverages,5,28.86,7.215,151.515,1
+January,Food and beverages,5,40.94,10.235,214.935,1
+January,Food and beverages,5,80.05,20.0125,420.2625,1
+January,Food and beverages,5,88.36,22.09,463.89,1
+January,Food and beverages,5,97.03,24.2575,509.4075,1
+January,Food and beverages,5,99.69,24.9225,523.3725,1
+January,Food and beverages,6,41.66,12.498,262.458,1
+January,Food and beverages,6,48.5,14.55,305.55,1
+January,Food and beverages,6,51.28,15.384,323.064,1
+January,Food and beverages,6,81.71,24.513,514.773,1
+January,Food and beverages,6,84.05,25.215,529.515,1
+January,Food and beverages,6,90.24,27.072,568.512,1
+January,Food and beverages,6,98.53,29.559,620.739,1
+January,Food and beverages,7,11.53,4.0355,84.7455,1
+January,Food and beverages,7,36.77,12.8695,270.2595,1
+January,Food and beverages,7,48.51,16.9785,356.5485,1
+January,Food and beverages,7,73.06,25.571,536.991,1
+January,Food and beverages,8,19.25,7.7,161.7,1
+January,Food and beverages,8,19.79,7.916,166.236,1
+January,Food and beverages,8,21.12,8.448,177.408,1
+January,Food and beverages,8,33.88,13.552,284.592,1
+January,Food and beverages,8,38.47,15.388,323.148,1
+January,Food and beverages,8,43.18,17.272,362.712,1
+January,Food and beverages,8,68.54,27.416,575.736,1
+January,Food and beverages,9,24.94,11.223,235.683,1
+January,Food and beverages,9,47.63,21.4335,450.1035,1
+January,Food and beverages,9,50.49,22.7205,477.1305,1
+January,Food and beverages,9,52.6,23.67,497.07,1
+January,Food and beverages,9,72.88,32.796,688.716,1
+January,Food and beverages,9,93.26,41.967,881.307,1
+January,Food and beverages,10,33.21,16.605,348.705,1
+January,Food and beverages,10,74.6,37.3,783.3,1
+January,Food and beverages,10,81.21,40.605,852.705,1
+January,Food and beverages,10,84.63,42.315,888.615,1
+January,Food and beverages,10,89.48,44.74,939.54,1
+January,Food and beverages,10,98.52,49.26,1034.46,1
+January,Health and beauty,1,17.75,0.8875,18.6375,1
+January,Health and beauty,1,19.15,0.9575,20.1075,1
+January,Health and beauty,1,27.07,1.3535,28.4235,1
+January,Health and beauty,1,39.42,1.971,41.391,1
+January,Health and beauty,1,40.35,2.0175,42.3675,1
+January,Health and beauty,1,75.88,3.794,79.674,1
+January,Health and beauty,1,81.51,4.0755,85.5855,1
+January,Health and beauty,1,96.11,4.8055,100.9155,1
+January,Health and beauty,2,21.12,2.112,44.352,1
+January,Health and beauty,2,36.26,3.626,76.146,1
+January,Health and beauty,2,57.22,5.722,120.162,1
+January,Health and beauty,2,62.82,6.282,131.922,1
+January,Health and beauty,2,62.87,6.287,132.027,1
+January,Health and beauty,3,33.81,5.0715,106.5015,1
+January,Health and beauty,3,60.47,9.0705,190.4805,1
+January,Health and beauty,3,86.8,13.02,273.42,1
+January,Health and beauty,4,51.13,10.226,214.746,1
+January,Health and beauty,4,55.5,11.1,233.1,1
+January,Health and beauty,4,58.15,11.63,244.23,1
+January,Health and beauty,4,96.16,19.232,403.872,1
+January,Health and beauty,5,10.99,2.7475,57.6975,1
+January,Health and beauty,5,17.41,4.3525,91.4025,1
+January,Health and beauty,5,20.38,5.095,106.995,1
+January,Health and beauty,5,20.97,5.2425,110.0925,1
+January,Health and beauty,5,70.01,17.5025,367.5525,1
+January,Health and beauty,5,77.5,19.375,406.875,1
+January,Health and beauty,5,95.95,23.9875,503.7375,1
+January,Health and beauty,6,55.81,16.743,351.603,1
+January,Health and beauty,6,99.19,29.757,624.897,1
+January,Health and beauty,7,53.17,18.6095,390.7995,1
+January,Health and beauty,7,53.19,18.6165,390.9465,1
+January,Health and beauty,7,64.08,22.428,470.988,1
+January,Health and beauty,7,74.69,26.1415,548.9715,1
+January,Health and beauty,7,78.89,27.6115,579.8415,1
+January,Health and beauty,7,81.23,28.4305,597.0405,1
+January,Health and beauty,7,99.96,34.986,734.706,1
+January,Health and beauty,8,34.31,13.724,288.204,1
+January,Health and beauty,8,58.22,23.288,489.048,1
+January,Health and beauty,8,62.0,24.8,520.8,1
+January,Health and beauty,8,75.37,30.148,633.108,1
+January,Health and beauty,8,99.16,39.664,832.944,1
+January,Health and beauty,9,23.03,10.3635,217.6335,1
+January,Health and beauty,9,39.62,17.829,374.409,1
+January,Health and beauty,9,69.37,31.2165,655.5465,1
+January,Health and beauty,9,72.11,32.4495,681.4395,1
+January,Health and beauty,9,80.47,36.2115,760.4415,1
+January,Health and beauty,10,34.21,17.105,359.205,1
+January,Health and beauty,10,66.47,33.235,697.935,1
+January,Health and beauty,10,90.5,45.25,950.25,1
+January,Home and lifestyle,1,22.96,1.148,24.108,1
+January,Home and lifestyle,1,60.87,3.0435,63.9135,1
+January,Home and lifestyle,1,86.72,4.336,91.056,1
+January,Home and lifestyle,1,88.61,4.4305,93.0405,1
+January,Home and lifestyle,2,12.03,1.203,25.263,1
+January,Home and lifestyle,2,49.1,4.91,103.11,1
+January,Home and lifestyle,2,53.44,5.344,112.224,1
+January,Home and lifestyle,2,69.4,6.94,145.74,1
+January,Home and lifestyle,3,21.9,3.285,68.985,1
+January,Home and lifestyle,3,30.68,4.602,96.642,1
+January,Home and lifestyle,3,37.48,5.622,118.062,1
+January,Home and lifestyle,3,53.3,7.995,167.895,1
+January,Home and lifestyle,3,55.57,8.3355,175.0455,1
+January,Home and lifestyle,3,81.01,12.1515,255.1815,1
+January,Home and lifestyle,3,85.72,12.858,270.018,1
+January,Home and lifestyle,4,25.55,5.11,107.31,1
+January,Home and lifestyle,4,45.38,9.076,190.596,1
+January,Home and lifestyle,4,47.38,9.476,198.996,1
+January,Home and lifestyle,4,60.01,12.002,252.042,1
+January,Home and lifestyle,4,62.19,12.438,261.198,1
+January,Home and lifestyle,4,62.65,12.53,263.13,1
+January,Home and lifestyle,4,69.81,13.962,293.202,1
+January,Home and lifestyle,4,70.74,14.148,297.108,1
+January,Home and lifestyle,5,10.53,2.6325,55.2825,1
+January,Home and lifestyle,5,39.39,9.8475,206.7975,1
+January,Home and lifestyle,5,42.91,10.7275,225.2775,1
+January,Home and lifestyle,5,67.09,16.7725,352.2225,1
+January,Home and lifestyle,5,73.28,18.32,384.72,1
+January,Home and lifestyle,5,87.37,21.8425,458.6925,1
+January,Home and lifestyle,6,11.43,3.429,72.009,1
+January,Home and lifestyle,6,21.52,6.456,135.576,1
+January,Home and lifestyle,6,63.15,18.945,397.845,1
+January,Home and lifestyle,6,73.22,21.966,461.286,1
+January,Home and lifestyle,6,77.95,23.385,491.085,1
+January,Home and lifestyle,6,78.38,23.514,493.794,1
+January,Home and lifestyle,6,83.77,25.131,527.751,1
+January,Home and lifestyle,6,96.52,28.956,608.076,1
+January,Home and lifestyle,7,24.24,8.484,178.164,1
+January,Home and lifestyle,7,51.07,17.8745,375.3645,1
+January,Home and lifestyle,7,94.59,33.1065,695.2365,1
+January,Home and lifestyle,8,47.59,19.036,399.756,1
+January,Home and lifestyle,8,58.9,23.56,494.76,1
+January,Home and lifestyle,8,89.25,35.7,749.7,1
+January,Home and lifestyle,9,19.36,8.712,182.952,1
+January,Home and lifestyle,9,21.54,9.693,203.553,1
+January,Home and lifestyle,9,35.38,15.921,334.341,1
+January,Home and lifestyle,9,58.07,26.1315,548.7615,1
+January,Home and lifestyle,9,74.67,33.6015,705.6315,1
+January,Home and lifestyle,9,89.21,40.1445,843.0345,1
+January,Home and lifestyle,10,15.8,7.9,165.9,1
+January,Home and lifestyle,10,21.82,10.91,229.11,1
+January,Home and lifestyle,10,35.54,17.77,373.17,1
+January,Home and lifestyle,10,45.68,22.84,479.64,1
+January,Home and lifestyle,10,49.01,24.505,514.605,1
+January,Home and lifestyle,10,63.56,31.78,667.38,1
+January,Home and lifestyle,10,72.35,36.175,759.675,1
+January,Home and lifestyle,10,95.58,47.79,1003.59,1
+January,Home and lifestyle,10,97.37,48.685,1022.385,1
+January,Home and lifestyle,10,97.5,48.75,1023.75,1
+January,Sports and travel,1,15.34,0.767,16.107,1
+January,Sports and travel,1,22.38,1.119,23.499,1
+January,Sports and travel,1,34.81,1.7405,36.5505,1
+January,Sports and travel,1,42.47,2.1235,44.5935,1
+January,Sports and travel,1,68.12,3.406,71.526,1
+January,Sports and travel,1,75.82,3.791,79.611,1
+January,Sports and travel,1,80.93,4.0465,84.9765,1
+January,Sports and travel,1,93.38,4.669,98.049,1
+January,Sports and travel,1,98.13,4.9065,103.0365,1
+January,Sports and travel,2,12.76,1.276,26.796,1
+January,Sports and travel,2,15.49,1.549,32.529,1
+January,Sports and travel,2,21.87,2.187,45.927,1
+January,Sports and travel,2,40.62,4.062,85.302,1
+January,Sports and travel,2,64.83,6.483,136.143,1
+January,Sports and travel,2,76.4,7.64,160.44,1
+January,Sports and travel,2,87.16,8.716,183.036,1
+January,Sports and travel,2,93.14,9.314,195.594,1
+January,Sports and travel,2,93.18,9.318,195.678,1
+January,Sports and travel,3,25.7,3.855,80.955,1
+January,Sports and travel,3,46.42,6.963,146.223,1
+January,Sports and travel,3,48.5,7.275,152.775,1
+January,Sports and travel,3,63.06,9.459,198.639,1
+January,Sports and travel,4,22.01,4.402,92.442,1
+January,Sports and travel,4,27.04,5.408,113.568,1
+January,Sports and travel,4,40.05,8.01,168.21,1
+January,Sports and travel,4,64.59,12.918,271.278,1
+January,Sports and travel,4,67.26,13.452,282.492,1
+January,Sports and travel,4,82.33,16.466,345.786,1
+January,Sports and travel,4,82.93,16.586,348.306,1
+January,Sports and travel,5,27.93,6.9825,146.6325,1
+January,Sports and travel,5,32.25,8.0625,169.3125,1
+January,Sports and travel,5,37.14,9.285,194.985,1
+January,Sports and travel,5,51.54,12.885,270.585,1
+January,Sports and travel,5,71.92,17.98,377.58,1
+January,Sports and travel,6,19.15,5.745,120.645,1
+January,Sports and travel,6,23.01,6.903,144.963,1
+January,Sports and travel,6,23.08,6.924,145.404,1
+January,Sports and travel,6,29.22,8.766,184.086,1
+January,Sports and travel,6,44.63,13.389,281.169,1
+January,Sports and travel,6,72.6,21.78,457.38,1
+January,Sports and travel,6,72.61,21.783,457.443,1
+January,Sports and travel,6,79.93,23.979,503.559,1
+January,Sports and travel,6,89.06,26.718,561.078,1
+January,Sports and travel,6,93.72,28.116,590.436,1
+January,Sports and travel,7,17.14,5.999,125.979,1
+January,Sports and travel,7,19.1,6.685,140.385,1
+January,Sports and travel,7,21.98,7.693,161.553,1
+January,Sports and travel,7,45.58,15.953,335.013,1
+January,Sports and travel,7,57.12,19.992,419.832,1
+January,Sports and travel,7,58.91,20.6185,432.9885,1
+January,Sports and travel,7,83.14,29.099,611.079,1
+January,Sports and travel,7,90.74,31.759,666.939,1
+January,Sports and travel,8,11.85,4.74,99.54,1
+January,Sports and travel,8,31.67,12.668,266.028,1
+January,Sports and travel,8,80.97,32.388,680.148,1
+January,Sports and travel,8,83.78,33.512,703.752,1
+January,Sports and travel,9,23.75,10.6875,224.4375,1
+January,Sports and travel,9,60.95,27.4275,575.9775,1
+January,Sports and travel,9,70.19,31.5855,663.2955,1
+January,Sports and travel,9,78.07,35.1315,737.7615,1
+January,Sports and travel,9,90.63,40.7835,856.4535,1
+January,Sports and travel,10,14.36,7.18,150.78,1
+January,Sports and travel,10,26.67,13.335,280.035,1
+January,Sports and travel,10,36.98,18.49,388.29,1
+January,Sports and travel,10,44.86,22.43,471.03,1
+January,Sports and travel,10,64.19,32.095,673.995,1
+January,Sports and travel,10,76.6,38.3,804.3,1
+January,Sports and travel,10,78.77,39.385,827.085,1
+January,Sports and travel,10,89.8,44.9,942.9,1
+January,Sports and travel,10,95.44,47.72,1002.12,1
+March,Electronic accessories,1,25.45,1.2725,26.7225,1
+March,Electronic accessories,1,30.24,1.512,31.752,1
+March,Electronic accessories,1,46.2,2.31,48.51,1
+March,Electronic accessories,1,95.15,4.7575,99.9075,1
+March,Electronic accessories,1,97.16,4.858,102.018,1
+March,Electronic accessories,2,26.61,2.661,55.881,1
+March,Electronic accessories,2,38.27,3.827,80.367,1
+March,Electronic accessories,2,55.67,5.567,116.907,1
+March,Electronic accessories,2,58.03,5.803,121.863,1
+March,Electronic accessories,2,84.25,8.425,176.925,1
+March,Electronic accessories,3,10.59,1.5885,33.3585,1
+March,Electronic accessories,3,15.69,2.3535,49.4235,1
+March,Electronic accessories,3,26.26,3.939,82.719,1
+March,Electronic accessories,3,26.48,3.972,83.412,1
+March,Electronic accessories,3,27.5,4.125,86.625,1
+March,Electronic accessories,3,45.71,6.8565,143.9865,1
+March,Electronic accessories,3,47.65,7.1475,150.0975,1
+March,Electronic accessories,3,78.31,11.7465,246.6765,1
+March,Electronic accessories,3,96.82,14.523,304.983,1
+March,Electronic accessories,4,25.51,5.102,107.142,1
+March,Electronic accessories,4,28.84,5.768,121.128,1
+March,Electronic accessories,4,36.36,7.272,152.712,1
+March,Electronic accessories,4,51.19,10.238,214.998,1
+March,Electronic accessories,4,52.89,10.578,222.138,1
+March,Electronic accessories,4,57.49,11.498,241.458,1
+March,Electronic accessories,4,84.07,16.814,353.094,1
+March,Electronic accessories,4,93.96,18.792,394.632,1
+March,Electronic accessories,4,95.64,19.128,401.688,1
+March,Electronic accessories,5,13.22,3.305,69.405,1
+March,Electronic accessories,5,15.28,3.82,80.22,1
+March,Electronic accessories,5,28.38,7.095,148.995,1
+March,Electronic accessories,5,28.45,7.1125,149.3625,1
+March,Electronic accessories,5,32.71,8.1775,171.7275,1
+March,Electronic accessories,5,34.49,8.6225,181.0725,1
+March,Electronic accessories,5,51.92,12.98,272.58,1
+March,Electronic accessories,5,64.44,16.11,338.31,1
+March,Electronic accessories,5,87.91,21.9775,461.5275,1
+March,Electronic accessories,6,22.21,6.663,139.923,1
+March,Electronic accessories,6,30.61,9.183,192.843,1
+March,Electronic accessories,6,74.51,22.353,469.413,1
+March,Electronic accessories,6,75.91,22.773,478.233,1
+March,Electronic accessories,7,19.32,6.762,142.002,1
+March,Electronic accessories,7,26.02,9.107,191.247,1
+March,Electronic accessories,7,27.85,9.7475,204.6975,1
+March,Electronic accessories,7,72.2,25.27,530.67,1
+March,Electronic accessories,7,85.39,29.8865,627.6165,1
+March,Electronic accessories,7,99.55,34.8425,731.6925,1
+March,Electronic accessories,8,20.85,8.34,175.14,1
+March,Electronic accessories,8,30.2,12.08,253.68,1
+March,Electronic accessories,8,88.55,35.42,743.82,1
+March,Electronic accessories,8,90.02,36.008,756.168,1
+March,Electronic accessories,9,19.24,8.658,181.818,1
+March,Electronic accessories,9,21.5,9.675,203.175,1
+March,Electronic accessories,9,21.58,9.711,203.931,1
+March,Electronic accessories,9,51.32,23.094,484.974,1
+March,Electronic accessories,9,75.06,33.777,709.317,1
+March,Electronic accessories,9,99.73,44.8785,942.4485,1
+March,Electronic accessories,10,45.48,22.74,477.54,1
+March,Electronic accessories,10,64.95,32.475,681.975,1
+March,Electronic accessories,10,73.47,36.735,771.435,1
+March,Electronic accessories,10,81.97,40.985,860.685,1
+March,Electronic accessories,10,82.34,41.17,864.57,1
+March,Fashion accessories,1,15.5,0.775,16.275,1
+March,Fashion accessories,1,16.28,0.814,17.094,1
+March,Fashion accessories,1,33.63,1.6815,35.3115,1
+March,Fashion accessories,1,46.41,2.3205,48.7305,1
+March,Fashion accessories,1,48.71,2.4355,51.1455,1
+March,Fashion accessories,1,51.47,2.5735,54.0435,1
+March,Fashion accessories,1,52.38,2.619,54.999,1
+March,Fashion accessories,1,56.5,2.825,59.325,1
+March,Fashion accessories,1,91.98,4.599,96.579,1
+March,Fashion accessories,2,27.18,2.718,57.078,1
+March,Fashion accessories,2,34.7,3.47,72.87,1
+March,Fashion accessories,2,49.92,4.992,104.832,1
+March,Fashion accessories,2,81.91,8.191,172.011,1
+March,Fashion accessories,2,87.67,8.767,184.107,1
+March,Fashion accessories,2,99.25,9.925,208.425,1
+March,Fashion accessories,3,27.02,4.053,85.113,1
+March,Fashion accessories,3,30.37,4.5555,95.6655,1
+March,Fashion accessories,3,41.28,6.192,130.032,1
+March,Fashion accessories,3,45.74,6.861,144.081,1
+March,Fashion accessories,4,16.45,3.29,69.09,1
+March,Fashion accessories,4,17.87,3.574,75.054,1
+March,Fashion accessories,4,22.32,4.464,93.744,2
+March,Fashion accessories,4,37.15,7.43,156.03,1
+March,Fashion accessories,4,38.3,7.66,160.86,1
+March,Fashion accessories,4,91.54,18.308,384.468,1
+March,Fashion accessories,4,94.67,18.934,397.614,1
+March,Fashion accessories,4,97.26,19.452,408.492,1
+March,Fashion accessories,5,21.94,5.485,115.185,1
+March,Fashion accessories,5,44.22,11.055,232.155,1
+March,Fashion accessories,5,61.77,15.4425,324.2925,1
+March,Fashion accessories,5,76.52,19.13,401.73,1
+March,Fashion accessories,5,92.49,23.1225,485.5725,1
+March,Fashion accessories,6,58.75,17.625,370.125,1
+March,Fashion accessories,7,54.73,19.1555,402.2655,1
+March,Fashion accessories,7,67.39,23.5865,495.3165,1
+March,Fashion accessories,7,71.46,25.011,525.231,1
+March,Fashion accessories,7,81.31,28.4585,597.6285,1
+March,Fashion accessories,7,95.54,33.439,702.219,1
+March,Fashion accessories,8,10.18,4.072,85.512,1
+March,Fashion accessories,8,12.19,4.876,102.396,1
+March,Fashion accessories,8,25.42,10.168,213.528,1
+March,Fashion accessories,8,56.47,22.588,474.348,1
+March,Fashion accessories,8,97.29,38.916,817.236,1
+March,Fashion accessories,9,48.96,22.032,462.672,1
+March,Fashion accessories,9,76.4,34.38,721.98,1
+March,Fashion accessories,9,78.55,35.3475,742.2975,1
+March,Fashion accessories,9,99.82,44.919,943.299,1
+March,Fashion accessories,10,19.66,9.83,206.43,1
+March,Fashion accessories,10,35.19,17.595,369.495,1
+March,Fashion accessories,10,37.55,18.775,394.275,1
+March,Fashion accessories,10,59.61,29.805,625.905,1
+March,Fashion accessories,10,70.99,35.495,745.395,1
+March,Fashion accessories,10,82.63,41.315,867.615,1
+March,Food and beverages,1,22.62,1.131,23.751,1
+March,Food and beverages,1,53.72,2.686,56.406,1
+March,Food and beverages,1,91.61,4.5805,96.1905,1
+March,Food and beverages,2,23.48,2.348,49.308,1
+March,Food and beverages,2,43.25,4.325,90.825,1
+March,Food and beverages,2,43.27,4.327,90.867,1
+March,Food and beverages,2,79.54,7.954,167.034,1
+March,Food and beverages,2,83.34,8.334,175.014,1
+March,Food and beverages,2,93.4,9.34,196.14,1
+March,Food and beverages,2,99.79,9.979,209.559,1
+March,Food and beverages,3,18.08,2.712,56.952,1
+March,Food and beverages,3,20.87,3.1305,65.7405,1
+March,Food and beverages,3,29.15,4.3725,91.8225,1
+March,Food and beverages,3,32.32,4.848,101.808,1
+March,Food and beverages,3,38.6,5.79,121.59,1
+March,Food and beverages,3,48.52,7.278,152.838,1
+March,Food and beverages,3,52.34,7.851,164.871,1
+March,Food and beverages,3,52.75,7.9125,166.1625,1
+March,Food and beverages,3,57.34,8.601,180.621,1
+March,Food and beverages,3,71.68,10.752,225.792,1
+March,Food and beverages,3,79.91,11.9865,251.7165,1
+March,Food and beverages,4,17.04,3.408,71.568,1
+March,Food and beverages,4,49.79,9.958,209.118,1
+March,Food and beverages,4,55.39,11.078,232.638,1
+March,Food and beverages,4,66.52,13.304,279.384,1
+March,Food and beverages,4,74.66,14.932,313.572,1
+March,Food and beverages,4,74.89,14.978,314.538,1
+March,Food and beverages,4,94.26,18.852,395.892,1
+March,Food and beverages,5,17.63,4.4075,92.5575,1
+March,Food and beverages,5,51.34,12.835,269.535,1
+March,Food and beverages,5,54.27,13.5675,284.9175,1
+March,Food and beverages,5,56.56,14.14,296.94,1
+March,Food and beverages,5,63.61,15.9025,333.9525,1
+March,Food and beverages,5,99.78,24.945,523.845,1
+March,Food and beverages,6,39.43,11.829,248.409,1
+March,Food and beverages,6,46.77,14.031,294.651,1
+March,Food and beverages,6,57.29,17.187,360.927,1
+March,Food and beverages,6,58.26,17.478,367.038,1
+March,Food and beverages,6,73.88,22.164,465.444,1
+March,Food and beverages,7,10.13,3.5455,74.4555,1
+March,Food and beverages,7,18.22,6.377,133.917,1
+March,Food and beverages,7,45.79,16.0265,336.5565,1
+March,Food and beverages,7,49.38,17.283,362.943,1
+March,Food and beverages,7,55.04,19.264,404.544,1
+March,Food and beverages,7,62.08,21.728,456.288,1
+March,Food and beverages,8,22.17,8.868,186.228,1
+March,Food and beverages,8,53.21,21.284,446.964,1
+March,Food and beverages,8,72.52,29.008,609.168,1
+March,Food and beverages,8,98.7,39.48,829.08,1
+March,Food and beverages,9,16.31,7.3395,154.1295,1
+March,Food and beverages,9,33.98,15.291,321.111,1
+March,Food and beverages,9,87.8,39.51,829.71,1
+March,Food and beverages,9,98.97,44.5365,935.2665,1
+March,Food and beverages,10,73.05,36.525,767.025,1
+March,Food and beverages,10,77.56,38.78,814.38,1
+March,Food and beverages,10,78.31,39.155,822.255,1
+March,Health and beauty,1,25.0,1.25,26.25,1
+March,Health and beauty,1,39.01,1.9505,40.9605,1
+March,Health and beauty,1,79.74,3.987,83.727,1
+March,Health and beauty,1,92.78,4.639,97.419,1
+March,Health and beauty,2,15.37,1.537,32.277,1
+March,Health and beauty,2,43.7,4.37,91.77,1
+March,Health and beauty,2,59.77,5.977,125.517,1
+March,Health and beauty,2,69.51,6.951,145.971,1
+March,Health and beauty,2,96.58,9.658,202.818,1
+March,Health and beauty,3,14.82,2.223,46.683,1
+March,Health and beauty,3,15.8,2.37,49.77,1
+March,Health and beauty,3,68.71,10.3065,216.4365,1
+March,Health and beauty,3,73.41,11.0115,231.2415,1
+March,Health and beauty,3,87.98,13.197,277.137,1
+March,Health and beauty,4,41.5,8.3,174.3,1
+March,Health and beauty,4,47.67,9.534,200.214,1
+March,Health and beauty,4,51.71,10.342,217.182,1
+March,Health and beauty,4,64.27,12.854,269.934,1
+March,Health and beauty,4,66.14,13.228,277.788,1
+March,Health and beauty,5,10.69,2.6725,56.1225,1
+March,Health and beauty,5,14.62,3.655,76.755,1
+March,Health and beauty,5,27.73,6.9325,145.5825,1
+March,Health and beauty,5,54.86,13.715,288.015,1
+March,Health and beauty,5,61.29,15.3225,321.7725,1
+March,Health and beauty,5,82.88,20.72,435.12,1
+March,Health and beauty,6,41.06,12.318,258.678,1
+March,Health and beauty,6,46.26,13.878,291.438,1
+March,Health and beauty,6,46.53,13.959,293.139,1
+March,Health and beauty,6,70.21,21.063,442.323,1
+March,Health and beauty,6,81.3,24.39,512.19,1
+March,Health and beauty,6,99.83,29.949,628.929,1
+March,Health and beauty,7,10.08,3.528,74.088,1
+March,Health and beauty,7,28.95,10.1325,212.7825,1
+March,Health and beauty,7,29.67,10.3845,218.0745,1
+March,Health and beauty,7,30.35,10.6225,223.0725,1
+March,Health and beauty,7,55.97,19.5895,411.3795,1
+March,Health and beauty,7,65.31,22.8585,480.0285,1
+March,Health and beauty,7,68.93,24.1255,506.6355,1
+March,Health and beauty,7,71.77,25.1195,527.5095,1
+March,Health and beauty,7,85.6,29.96,629.16,1
+March,Health and beauty,8,10.75,4.3,90.3,1
+March,Health and beauty,8,25.32,10.128,212.688,1
+March,Health and beauty,8,32.46,12.984,272.664,1
+March,Health and beauty,8,54.92,21.968,461.328,1
+March,Health and beauty,8,72.57,29.028,609.588,1
+March,Health and beauty,9,15.55,6.9975,146.9475,1
+March,Health and beauty,9,24.89,11.2005,235.2105,1
+March,Health and beauty,9,64.36,28.962,608.202,1
+March,Health and beauty,9,97.22,43.749,918.729,1
+March,Health and beauty,10,15.87,7.935,166.635,1
+March,Health and beauty,10,18.11,9.055,190.155,1
+March,Health and beauty,10,48.63,24.315,510.615,1
+March,Health and beauty,10,51.94,25.97,545.37,1
+March,Health and beauty,10,71.38,35.69,749.49,1
+March,Health and beauty,10,81.95,40.975,860.475,1
+March,Health and beauty,10,82.58,41.29,867.09,1
+March,Health and beauty,10,87.87,43.935,922.635,1
+March,Home and lifestyle,1,18.28,0.914,19.194,1
+March,Home and lifestyle,1,25.29,1.2645,26.5545,1
+March,Home and lifestyle,1,37.0,1.85,38.85,1
+March,Home and lifestyle,1,74.86,3.743,78.603,1
+March,Home and lifestyle,1,97.94,4.897,102.837,1
+March,Home and lifestyle,2,16.16,1.616,33.936,1
+March,Home and lifestyle,2,33.2,3.32,69.72,1
+March,Home and lifestyle,2,34.73,3.473,72.933,1
+March,Home and lifestyle,2,40.3,4.03,84.63,1
+March,Home and lifestyle,2,44.34,4.434,93.114,1
+March,Home and lifestyle,2,70.32,7.032,147.672,1
+March,Home and lifestyle,3,44.12,6.618,138.978,1
+March,Home and lifestyle,3,72.42,10.863,228.123,1
+March,Home and lifestyle,3,99.7,14.955,314.055,1
+March,Home and lifestyle,4,23.29,4.658,97.818,1
+March,Home and lifestyle,4,23.75,4.75,99.75,1
+March,Home and lifestyle,4,28.31,5.662,118.902,1
+March,Home and lifestyle,4,35.47,7.094,148.974,1
+March,Home and lifestyle,4,38.81,7.762,163.002,1
+March,Home and lifestyle,4,46.22,9.244,194.124,1
+March,Home and lifestyle,4,56.53,11.306,237.426,1
+March,Home and lifestyle,4,65.94,13.188,276.948,1
+March,Home and lifestyle,4,75.53,15.106,317.226,1
+March,Home and lifestyle,4,77.47,15.494,325.374,1
+March,Home and lifestyle,4,78.38,15.676,329.196,1
+March,Home and lifestyle,5,28.32,7.08,148.68,1
+March,Home and lifestyle,5,50.28,12.57,263.97,1
+March,Home and lifestyle,5,92.36,23.09,484.89,1
+March,Home and lifestyle,6,33.99,10.197,214.137,1
+March,Home and lifestyle,6,34.42,10.326,216.846,1
+March,Home and lifestyle,6,70.11,21.033,441.693,1
+March,Home and lifestyle,6,82.7,24.81,521.01,1
+March,Home and lifestyle,6,83.17,24.951,523.971,1
+March,Home and lifestyle,6,99.92,29.976,629.496,1
+March,Home and lifestyle,7,40.73,14.2555,299.3655,1
+March,Home and lifestyle,7,46.33,16.2155,340.5255,1
+March,Home and lifestyle,7,52.18,18.263,383.523,1
+March,Home and lifestyle,7,55.61,19.4635,408.7335,1
+March,Home and lifestyle,7,81.2,28.42,596.82,1
+March,Home and lifestyle,7,93.69,32.7915,688.6215,1
+March,Home and lifestyle,8,30.12,12.048,253.008,1
+March,Home and lifestyle,8,44.01,17.604,369.684,1
+March,Home and lifestyle,8,50.93,20.372,427.812,1
+March,Home and lifestyle,8,52.59,21.036,441.756,1
+March,Home and lifestyle,8,63.42,25.368,532.728,1
+March,Home and lifestyle,8,63.91,25.564,536.844,1
+March,Home and lifestyle,8,65.26,26.104,548.184,1
+March,Home and lifestyle,8,71.86,28.744,603.624,1
+March,Home and lifestyle,8,94.49,37.796,793.716,1
+March,Home and lifestyle,8,95.46,38.184,801.864,1
+March,Home and lifestyle,9,11.28,5.076,106.596,1
+March,Home and lifestyle,9,12.29,5.5305,116.1405,1
+March,Home and lifestyle,9,13.59,6.1155,128.4255,1
+March,Home and lifestyle,9,27.0,12.15,255.15,1
+March,Home and lifestyle,9,33.3,14.985,314.685,1
+March,Home and lifestyle,9,33.84,15.228,319.788,1
+March,Home and lifestyle,9,35.79,16.1055,338.2155,1
+March,Home and lifestyle,9,88.39,39.7755,835.2855,1
+March,Home and lifestyle,9,93.96,42.282,887.922,1
+March,Home and lifestyle,10,12.12,6.06,127.26,1
+March,Home and lifestyle,10,28.53,14.265,299.565,1
+March,Home and lifestyle,10,90.65,45.325,951.825,1
+March,Home and lifestyle,10,97.38,48.69,1022.49,1
+March,Sports and travel,1,39.12,1.956,41.076,1
+March,Sports and travel,1,42.85,2.1425,44.9925,1
+March,Sports and travel,1,74.97,3.7485,78.7185,1
+March,Sports and travel,2,14.39,1.439,30.219,1
+March,Sports and travel,2,25.31,2.531,53.151,1
+March,Sports and travel,2,39.47,3.947,82.887,1
+March,Sports and travel,2,60.87,6.087,127.827,1
+March,Sports and travel,2,72.88,7.288,153.048,1
+March,Sports and travel,2,93.31,9.331,195.951,1
+March,Sports and travel,3,25.84,3.876,81.396,1
+March,Sports and travel,3,88.63,13.2945,279.1845,1
+March,Sports and travel,3,96.8,14.52,304.92,1
+March,Sports and travel,4,49.49,9.898,207.858,1
+March,Sports and travel,4,97.74,19.548,410.508,1
+March,Sports and travel,5,14.7,3.675,77.175,1
+March,Sports and travel,5,24.77,6.1925,130.0425,1
+March,Sports and travel,5,25.25,6.3125,132.5625,1
+March,Sports and travel,5,33.26,8.315,174.615,1
+March,Sports and travel,5,48.91,12.2275,256.7775,1
+March,Sports and travel,5,62.62,15.655,328.755,1
+March,Sports and travel,5,67.43,16.8575,354.0075,1
+March,Sports and travel,5,85.91,21.4775,451.0275,1
+March,Sports and travel,5,89.48,22.37,469.77,1
+March,Sports and travel,6,35.22,10.566,221.886,1
+March,Sports and travel,6,37.02,11.106,233.226,1
+March,Sports and travel,6,54.51,16.353,343.413,1
+March,Sports and travel,6,62.13,18.639,391.419,1
+March,Sports and travel,6,92.13,27.639,580.419,1
+March,Sports and travel,6,93.39,28.017,588.357,1
+March,Sports and travel,7,12.34,4.319,90.699,1
+March,Sports and travel,7,29.61,10.3635,217.6335,1
+March,Sports and travel,7,34.56,12.096,254.016,1
+March,Sports and travel,7,40.23,14.0805,295.6905,1
+March,Sports and travel,7,73.98,25.893,543.753,1
+March,Sports and travel,7,83.06,29.071,610.491,1
+March,Sports and travel,7,98.4,34.44,723.24,1
+March,Sports and travel,8,72.5,29.0,609.0,1
+March,Sports and travel,8,75.92,30.368,637.728,1
+March,Sports and travel,8,88.43,35.372,742.812,1
+March,Sports and travel,8,90.53,36.212,760.452,1
+March,Sports and travel,9,37.32,16.794,352.674,1
+March,Sports and travel,9,38.72,17.424,365.904,1
+March,Sports and travel,9,97.48,43.866,921.186,1
+March,Sports and travel,9,99.24,44.658,937.818,1
+March,Sports and travel,9,99.96,44.982,944.622,1
+March,Sports and travel,10,15.5,7.75,162.75,1
+March,Sports and travel,10,15.81,7.905,166.005,1
+March,Sports and travel,10,34.37,17.185,360.885,1
+March,Sports and travel,10,44.02,22.01,462.21,1
+March,Sports and travel,10,52.26,26.13,548.73,1
+March,Sports and travel,10,54.55,27.275,572.775,1
+March,Sports and travel,10,69.74,34.87,732.27,1
+March,Sports and travel,10,76.92,38.46,807.66,1
