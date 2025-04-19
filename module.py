@@ -86,5 +86,5 @@ def revenue_prediction_graph():
                   title='Monthly Revenue Prediction (Including April)')
     st.plotly_chart(fig)
 
-def top_customers_by_revenue():
+def orignal():
     st.dataframe(data.head(100))

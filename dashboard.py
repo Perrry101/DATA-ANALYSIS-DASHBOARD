@@ -7,7 +7,7 @@ from module import (
     csi_calculation,
     sales_prediction_graph,
     revenue_prediction_graph,
-    top_customers_by_revenue
+    orignal
 )
 
 st.set_page_config(page_title="Supermarket Dashboard", layout="wide")
@@ -28,7 +28,7 @@ with tab1:
     TAX_COLLECTION_GRAPH()
 
 with tab2:
-    st.subheader("Rating vs Gross Income by Branch")
+    st.subheader("Rating Across City")
     rating_data()
 
 with tab3:
@@ -49,6 +49,6 @@ with tab6:
 
 with tab7:
     st.subheader("ORIGNAL DATA")
-    top_customers_by_revenue()
+    orignal()
 
 st.caption("Data Source: Supermarket Dataset")
