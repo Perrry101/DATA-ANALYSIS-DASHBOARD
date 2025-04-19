@@ -15,7 +15,7 @@ st.title("Supermarket Sales Analysis Dashboard")
 
 tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "Tax by Product Line",
-    "Rating vs Gross Income",
+    "Rating Across City",
     "Sales by City",
     "Customer Satisfaction Index",
     "Sales Prediction",
