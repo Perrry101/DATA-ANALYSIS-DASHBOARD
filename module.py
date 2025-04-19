@@ -16,6 +16,25 @@ data['Month'] = data['Date(dd-mm-yyyy)'].dt.month_name()
 
 # ---------------------------- FUNCTIONS ---------------------------- 
 
+def Sales_by_DAY():
+    data.groupby(['Month', 'Day' , 'Product line' ])['Quantity'].sum().reset_index(name='Count')
+    graph=data.groupby(['Month' ,'Day','Product line'])['Quantity'].sum().reset_index(name='Count')
+    g= px.bar(
+        graph,
+        x="Day",
+        y="Count",
+        color="Product line",
+        facet_row="Month",  
+        barmode="group",
+        height=1400,
+        
+        color_discrete_sequence=px.colors.qualitative.Set2,
+        title="Sales by Product Line and Day (Interactive)"
+  
+)
+    g.update_xaxes(showticklabels=True)
+    st.plotly_chart(g)
+
 def TAX_COLLECTION_GRAPH():
     tax_group = data.groupby(['Month', 'Product line'])['Tax 5%'].sum().reset_index()
     fig = px.bar(tax_group, x='Product line', y='Tax 5%', color='Product line',
