@@ -88,22 +88,39 @@ def revenue_prediction_graph():
     sales_df = data.groupby(['City', 'Month'])['Total'].sum().reset_index(name="Revenue")
     sales_df['Month'] = pd.Categorical(sales_df['Month'], categories=['January', 'February', 'March'], ordered=True)
     pivot = sales_df.pivot(index='City', columns='Month', values='Revenue')
+    
+    pivot = pivot.reset_index()  #  The FIXING OF  THE MELT ERROR
 
-    # Drop any rows with missing data to avoid regression issues
-    pivot = pivot.dropna()
+    # Step 1: Define training data (predict March from Jan & Feb)
+    X_train = pivot[['January', 'February']]
+    y_train = pivot['March']
 
+    # Step 2: Train model
     model = LinearRegression()
-    X = pivot[['January', 'February', 'March']]
-    model.fit(X, pivot['March'])  # You could fit to 'March' or predict next based on these
-    pivot['April_Prediction'] = model.predict(X)
+    model.fit(X_train, y_train)
 
-    pivot = pivot.reset_index()
-    long_df = pd.melt(pivot, id_vars='City', value_vars=['January', 'February', 'March', 'April_Prediction'],
-                      var_name='Month', value_name='Revenue')
+    # Step 3: Prepare data to predict April (using Feb & Mar)
+    X_april = pivot[['February', 'March']].copy()
+
+    # Step 4: Rename columns to match the training feature names
+    X_april.columns = ['January', 'February']
+
+    # Step 5: Predict April
+    pivot['April_Prediction'] = model.predict(X_april)
+
+    # Step 6: Melt and plot
+    long_df = pd.melt(
+        pivot,
+        id_vars='City',
+        value_vars=['January', 'February', 'March', 'April_Prediction'],
+        var_name='Month',
+        value_name='Revenue'
+    )
 
     fig = px.line(long_df, x='Month', y='Revenue', color='City', markers=True,
                   title='Monthly Revenue Prediction (Including April)')
     st.plotly_chart(fig)
+
 
 def orignal():
     st.dataframe(data.head(100))
